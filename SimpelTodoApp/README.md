@@ -1,0 +1,1 @@
+aplikasi simpel pencatat pekerjaan dengan database lokal sementara
