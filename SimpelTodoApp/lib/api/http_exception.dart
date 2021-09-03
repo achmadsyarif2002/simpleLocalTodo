@@ -1,0 +1,10 @@
+class HTTEXCEPTION extends StatelessWidget {
+  const HTTEXCEPTION({ Key? key }) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      
+    );
+  }
+}
